@@ -16,3 +16,4 @@ for x in xrange(5):
     time.sleep(2)
 # GPIOを解放
 GPIO.cleanup()
+# このプログラムはGitHubによりバージョン管理しています。（練習）
